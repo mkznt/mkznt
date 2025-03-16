@@ -1,16 +1,30 @@
-## Hi there 👋
+## 🚀 Hey there, I'm [Maria]! 
 
-<!--
-**mkznt/mkznt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ **From CAD Design to Clean Code**
+**Ex-Design Engineer** | **C++ Developer** in the making | **IT Architecture** Explorer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 **What I'm up to**  
+- 🌱 **Learning**: Software Engineering @ SPbPU | IT Architecture | Advanced C++/Java  
+
+---
+
+### 📬 **Connect with Me**  
+
+- 📫 **Reach me**: [Email](mari.kz1@outlook.com) | [Telegram](https://t.me/mkznt)
+---
+
+### 🎯 **Engineering Mindset in Code**  
+```cpp
+// Как инженер-конструктор вижу код:
+class Project {
+public:
+  void build() {
+    analyzeRequirements(); 
+    designArchitecture();
+    while (!perfectionAchieved) {
+      refactorCode();
+    }
+  }
+};
